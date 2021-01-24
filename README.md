@@ -22,3 +22,10 @@ My recommanded approch is to start by importing an image of the top view of the 
 (personally I created the image using my scanner, this was very handy)
 
 In the final template I removed the image to avoid overloading the template
+
+
+## Overview
+
+![vertical temaplte (dark mode)](./meta/pcb-template-vertical.png)
+
+![horizontal temaplte (dark mode)](./meta/pcb-template-horizontal.png)
